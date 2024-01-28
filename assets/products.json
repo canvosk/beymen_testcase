@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "barcodeNumber": "987654321098",
+      "productName": "Adidas Germany 1996 T-Shirt",
+      "imageUrl": "https://cdn.beymen.com/productimages/oq5a1uxe.hsf_IMG_01_2110095116864.jpg",
+      "serialNumber": "SN001"
+    },
+    {
+      "barcodeNumber": "876543210987",
+      "productName": "Nike Sportswear Max90 Siyah T-shirt",
+      "imageUrl": "https://cdn.beymen.com/productimages/sbkwrznb.0xq_IMG_01_2110093852269.jpg",
+      "serialNumber": "SN002"
+    },
+    {
+      "barcodeNumber": "765432109876",
+      "productName": "Obey Siyah Kadife Pantolon",
+      "imageUrl": "https://cdn.beymen.com/productimages/ov4i0pcv.kso_IMG_02_2110093615505.jpg",
+      "serialNumber": "SN003"
+    },
+    {
+      "barcodeNumber": "654321098765",
+      "productName": "Lacoste Classic Fit Yarım Fermuarlı Siyah Erkek Sweatshirt",
+      "imageUrl": "https://cdn.beymen.com/productimages/3nxecimg.ls5_MP_c6e3796d-7f89-4758-9f7f-5ab5700ee52d_2_66241221164225919376315041406_118.jpg",
+      "serialNumber": "SN004"
+    },
+    {
+      "barcodeNumber": "543210987654",
+      "productName": "Columbia Helvetia Mor Sweatshirt",
+      "imageUrl": "https://cdn.beymen.com/productimages/n2h1hcsz.3ii_IMG_01_2110094221682.jpg",
+      "serialNumber": "SN005"
+    },
+    {
+      "barcodeNumber": "432109876543",
+      "productName": "Lacoste SPORT Lt Court 125 Erkek Gri Sneaker",
+      "imageUrl": "https://cdn.beymen.com/productimages/rs25vfby.55k_MP_90101f73-dc63-4155-8970-6a72e7aa1265_1_00303322075215087117253336944_121.jpg",
+      "serialNumber": "SN006"
+    },
+    {
+      "barcodeNumber": "210987654321",
+      "productName": "Puma Slipstream Xtreme Natural Erkek Sneaker",
+      "imageUrl": "https://cdn.beymen.com/productimages/dk24wlk3.2yt_IMG_04_2110093413613.jpg",
+      "serialNumber": "SN008"
+    },
+    {
+      "barcodeNumber": "109876543210",
+      "productName": "Givenchy Siyah Beyaz Logo Nakışlı Yün Bomber Mont",
+      "imageUrl": "https://cdn.beymen.com/productimages/ycdd3idx.h15_IMG_01_2110090614747.jpg",
+      "serialNumber": "SN009"
+    },
+    {
+      "barcodeNumber": "012345678901",
+      "productName": "Prada Kısa Kollu Desenli Pamuklu Gömlek",
+      "imageUrl": "https://cdn.beymen.com/productimages/du3xdq5j.yet_MP_7e41ea71-0e76-4736-94e8-0b4cf3b649fc_1_25028290534097854531414328423_203.jpg",
+      "serialNumber": "SN010"
+    },
+    {
+      "barcodeNumber": "321098765432",
+      "productName": "Cdlp Siyah Kontrast Dikişli Kısa Kollu Gömlek",
+      "imageUrl": "https://cdn.beymen.com/productimages/le03itm1.wa5_IMG_01_2110089226920.jpg",
+      "serialNumber": "SN007"
+    }
+  ]
+}
