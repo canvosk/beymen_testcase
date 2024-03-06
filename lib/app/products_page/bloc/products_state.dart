@@ -12,7 +12,7 @@ class ProductsLoading extends ProductsState {}
 class ProductsSuccess extends ProductsState {
   final ProductList products;
   final ProductList scannedProducts;
-  final int statusCode;
+  final StatusEnums statusCode;
   // 0 => Initial
   // 1 => Scanned Success
   // 2 => Scanned Failed

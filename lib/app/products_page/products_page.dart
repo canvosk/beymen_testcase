@@ -2,9 +2,11 @@ library products_page;
 
 import 'package:beymen_testcase/app/products_page/bloc/products_bloc.dart';
 import 'package:beymen_testcase/constants/assets.dart';
+import 'package:beymen_testcase/constants/enums.dart';
 import 'package:beymen_testcase/constants/texts.dart';
 import 'package:beymen_testcase/constants/theme/app_colors.dart';
 import 'package:beymen_testcase/constants/theme/text_styles.dart';
+import 'package:beymen_testcase/constants/typedefs.dart';
 import 'package:beymen_testcase/core/helpers/popups.dart';
 import 'package:beymen_testcase/core/model/product_model.dart';
 import 'package:cached_network_image/cached_network_image.dart';

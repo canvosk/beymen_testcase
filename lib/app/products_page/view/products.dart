@@ -38,9 +38,9 @@ class Products extends StatelessWidget {
                         listener: (listenerContext, listenerState) {
                           if (listenerState is ProductsSuccess) {
                             switch (listenerState.statusCode) {
-                              case 0:
+                              case StatusEnums.initial:
                                 break;
-                              case 1:
+                              case StatusEnums.success:
                                 ShowPopups.showpopup(
                                   context: context,
                                   titleIcon: Icon(
@@ -59,7 +59,7 @@ class Products extends StatelessWidget {
                                       );
                                 });
                                 break;
-                              case 2:
+                              case StatusEnums.failed:
                                 ShowPopups.showpopup(
                                   context: context,
                                   titleIcon: Icon(
@@ -78,7 +78,7 @@ class Products extends StatelessWidget {
                                       );
                                 });
                                 break;
-                              case 3:
+                              case StatusEnums.scannedBefore:
                                 ShowPopups.showpopup(
                                   context: context,
                                   titleIcon: Icon(
